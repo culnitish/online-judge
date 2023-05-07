@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/culnitish/online-judge#readme",
   "dependencies": {
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.22"
   }
 }
